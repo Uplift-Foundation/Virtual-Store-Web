@@ -58,7 +58,7 @@
                     "request": "launch",
                     "cwd": "${workspaceFolder}",
                     "console": "internalConsole",
-                    "mainClass": "com.senecafoundation.virtualstoreweb.VirtualStoreWebApplication",
+                    "mainClass": "com.upliftfoundation.virtualstoreweb.VirtualStoreWebApplication",
                     "projectName": "virtualstore",
                     "args": "--spring.profiles.active=YOURNAME"
                 },
@@ -68,7 +68,7 @@
                         "request": "launch",
                         "cwd": "${workspaceFolder}",
                         "console": "internalConsole",
-                        "mainClass": "com.senecafoundation.virtualstoreweb.VirtualStoreWebApplication",
+                        "mainClass": "com.upliftfoundation.virtualstoreweb.VirtualStoreWebApplication",
                         "projectName": "virtualstore",
                         "args": "--spring.profiles.active=docker"
                 }
